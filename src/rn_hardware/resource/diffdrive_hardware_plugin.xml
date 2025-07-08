@@ -1,0 +1,7 @@
+<library path="diffdrive_hardware">
+  <class name="diffdrive_hardware/DiffDriveHardware"
+         type="diffdrive_hardware::DiffDriveHardware"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>Hardware interface for custom diff-drive robot (Arduino Mega)</description>
+  </class>
+</library>
